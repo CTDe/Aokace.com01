@@ -1,0 +1,88 @@
+@charset "utf-8";
+@font-face {
+    /*给字体命名*/
+    font-family: 'Barks';
+    /*引入字体文件*/
+    src: url('../font/Barlow-Blacks.ttf') format('truetype');
+
+
+    font-weight: normal;
+    font-style: normal;
+    
+}
+
+@font-face {
+    /*给字体命名*/
+    font-family: 'Barld';
+    /*引入字体文件*/
+    src: url('../font/Barlow-Bold.ttf') format('truetype');
+
+
+    font-weight: normal;
+    font-style: normal;
+    
+}
+
+@font-face {
+    /*给字体命名*/
+    font-family: 'Barht';
+    /*引入字体文件*/
+    src: url('../font/Barlow-Light.ttf') format('truetype');
+
+
+    font-weight: normal;
+    font-style: normal;
+    
+}
+
+@font-face {
+    /*给字体命名*/
+    font-family: 'Barum';
+    /*引入字体文件*/
+    src: url('../font/Barlow-Medium.ttf') format('truetype');
+
+
+    font-weight: normal;
+    font-style: normal;
+    
+}
+
+
+@font-face {
+    /*给字体命名*/
+    font-family: 'Barar';
+    /*引入字体文件*/
+    src: url('./Barlow-Regular.ttf') format('truetype');
+
+
+    font-weight: normal;
+    font-style: normal;
+    
+}
+
+@font-face {
+    /*给字体命名*/
+    font-family: 'Barsd';
+    /*引入字体文件*/
+    src: url('./Barlow-SemiBold.ttf') format('truetype');
+
+
+    font-weight: normal;
+    font-style: normal;
+    
+}
+
+@font-face {
+    /*给字体命名*/
+    font-family: 'Barin';
+    /*引入字体文件*/
+    src: url('./Barlow-Thin.ttf') format('truetype');
+
+
+    font-weight: normal;
+    font-style: normal;
+    
+}
+
+
+
